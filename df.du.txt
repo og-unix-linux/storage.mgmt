@@ -1,0 +1,4 @@
+du -sh /opt/intellinx
+
+du -sh /etc
+df -h /
